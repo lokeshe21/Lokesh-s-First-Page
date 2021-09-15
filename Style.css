@@ -1,0 +1,15 @@
+h1{
+  color: #583d72;
+  }
+  h3{
+    color: #583d72;
+    }
+body{
+  background-color: #00ADB5;
+  }
+  hr{
+    border-color: grey;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%;
+  }
